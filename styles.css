@@ -1,9 +1,14 @@
-/* color pallete for the website: 
-#4d4344 
-#9c7f52 
-#6b210a 
-#332b2c 
-#230b05 */
+body {
+  background-image: url(bg.webp);
+  background-size: cover;
+}
+
+header {
+  border: #c70d0d 1px solid;
+  padding: 2%;
+  top: 0;
+  z-index: 1000;
+}
 
 #text {
   background-color: #0a0a23;
